@@ -28,6 +28,10 @@ function unleashDog(dogName, dogBreed) {
   return `Unleash ${dogName} the ${dogBreed}`
 }
 
+function routine() {
+  
+}
+
 function exerciseDog(dogName, dogBreed) {
 
 }
