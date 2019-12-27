@@ -1,5 +1,5 @@
-function wakeDog() {
-  "Wake Xerox the Border Collie"
+function wakeDog(name, breed) {
+  console.log"Wake ${name} the ${breed}"
 }
 
 function leashDog() {
