@@ -1,23 +1,23 @@
 function wakeDog(name, breed) {
-  console.log"Wake ${name} the ${breed}"
+  console.log(`Wake ${name} the ${breed}`)
 }
 
-function leashDog() {
-  "Leash Boo Radley the Pibble"
+function leashDog(name, breed) {
+  console.log(`Leash ${name} the ${breed}`)
 }
 
-function walkToPark() {
-  "Walk to the park with Bunny the Labrador"
+function walkToPark(name, breed) {
+  console.log(`Walk to the park with ${name} the ${breed}`)
 }
 
-function throwFrisbee() {
-  "Throw the frisbee for Mary J. Blige the Papillon"
+function throwFrisbee(name, breed) {
+  console.log(`Throw the frisbee for ${name} the ${breed}`)
 }
 
-function walkHome() {
-  "Walk home with Santa Paws the Husky"
+function walkHome(name, breed) {
+  console.log(`Walk home with ${name} the ${breed}`)
 }
 
-function unleashDog() {
-  "Unleash Lauren the Golden Retriever"
+function unleashDog(name, breed) {
+  console.log(`Unleash ${name} the ${breed}`)
 }
